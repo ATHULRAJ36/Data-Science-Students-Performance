@@ -1,7 +1,3 @@
-<p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/ATHULRAJ36/Data-Science-Students-Performance/main/Data%20Science%20Students%20Performance.png">
-</p>
-
 # **Data Science Students Performance Analysis — Tableau Dashboard**
 
 Built an interactive Tableau dashboard to analyze student academic performance, compare subject-wise marks, and visualize trends across age groups and locations using data-driven insights.
@@ -86,6 +82,9 @@ The dashboard was designed to provide interactive visual analytics for understan
 
 ---
 
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/ATHULRAJ36/Data-Science-Students-Performance/main/Data%20Science%20Students%20Performance.png">
+</p>
 # **Outcome**
 
 Successfully developed an interactive Tableau dashboard that provided meaningful insights into student academic performance, subject comparisons, and demographic trends through data visualization and analytics.
