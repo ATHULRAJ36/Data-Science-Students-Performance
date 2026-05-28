@@ -89,6 +89,6 @@ Successfully developed an interactive Tableau dashboard that provided meaningful
 ---
 
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/ATHULRAJ36/Data-Science-Students-Performance/main/last.png">
+  <img width="100%" src="https://github.com/ATHULRAJ36/Data-Science-Students-Performance/blob/main/Data%20Science%20Students%20Performance.png">
 </p>
 ```
