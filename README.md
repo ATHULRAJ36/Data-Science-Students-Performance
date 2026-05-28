@@ -85,7 +85,3 @@ The dashboard was designed to provide interactive visual analytics for understan
 
 Successfully developed an interactive Tableau dashboard that provided meaningful insights into student academic performance, subject comparisons, and demographic trends through data visualization and analytics.
 ```
-id="m1d9zv"
-<p align="center">
-  <img src="./Data Science Students Performance.png" alt="Data Science Students Performance Dashboard" width="100%">
-</p>
